@@ -1,0 +1,13 @@
+{
+  "author_email": "you@work.example.com",
+  "personal_email": "you@personal.example.com",
+  "personal_name": "your-github-username",
+  "target_repo_url": "git@github.com:your-github-username/contribution-mirror.git",
+  "repos": [
+    {
+      "name": "example-project",
+      "path": "C:\\path\\to\\local\\clone",
+      "branch": "main"
+    }
+  ]
+}
